@@ -4,3 +4,4 @@ description: Geospatial Data Science in Python.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+author_profile: false
