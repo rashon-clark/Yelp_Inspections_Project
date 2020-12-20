@@ -11,6 +11,7 @@ hv-loader:
 folium-loader:
   folium-chart-1: ["charts/foliumChart.html", "400"] # second argument is the desired height
   folium-chart-2: ["charts/percent_no_internet.html", "400"] # second argument is the desired height
+  
 ---
 
 # Yelp Ratings and Food Safety Inspections
