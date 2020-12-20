@@ -1,7 +1,7 @@
 ---
 layout: default
-  toc: false
-  toc_sticky: false
+toc: false
+toc_sticky: false
 altair-loader:
   philadelphiarest: "charts/Philadelphia_Rest.json"
   altair-chart-1: "charts/measlesAltair.json"
