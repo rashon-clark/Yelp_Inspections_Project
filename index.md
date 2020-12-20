@@ -22,7 +22,7 @@ Data from Yelp was drawn through the Yelp API and the food inspections data was 
 
 <div id="philadelphiarest"></div>
 
-As can be seen in the below chart of the Top 10 Neighborhoods by Inspections, Fishtown has the largest amount by many multiples of the rest. This may be a quirk of the two datasets, with Fishtown names and addresses merging better than other addresses. Fishtown may also have a more long-lived base of restaurants. Because the Yelp API only returns active restaurants, inspections from shuttered restaurants are invariably dropped from the dataset. Consequently, neighborhoods with a high business turnover at locations may have diminished visibility in the dataset.
+As can be seen in the below chart of the Top 20 Neighborhoods by Inspections, Fishtown has the largest amount by many multiples of the rest. This may be a quirk of the two datasets, with Fishtown names and addresses merging better than other addresses. Fishtown may also have a more long-lived base of restaurants. Because the Yelp API only returns active restaurants, inspections from shuttered restaurants are invariably dropped from the dataset. Consequently, neighborhoods with a high business turnover at locations may have diminished visibility in the dataset.
 
 <div id="hv-chart-top_10"></div>
 
