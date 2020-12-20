@@ -1,7 +1,7 @@
 ---
 layout: default
 altair-loader:
-  philadelphia_rest: "charts/Philadelphia_Rest.json"
+  philadelphiarest: "charts/Philadelphia_Rest.json"
   altair-chart-1: "charts/measlesAltair.json"
 hv-loader:
   hv-chart-1: ["charts/measlesHvplot.html", "500"] # second argument is the desired height
@@ -19,7 +19,7 @@ This project explores the relationship between Yelp restaurant ratings and food 
 ## Data
 Data from Yelp was drawn through the Yelp API and the food inspections data was scraped from the Philadelphia Inquirer’s portal for food inspections, which was made in conjunction with the Philadelphia Department of Health. The original dataset of Philadelphia restaurants on Yelp included about 20,000 entries and the scrapped inspections dataset included over 300,000 individual inspections. Nevertheless, once the two datasets were pared down to active restaurants, and those that had inspections, as well as unmergeable entries, the final merged dataset had about 1,500 restaurants. In general, the majority of these restaurants were concentrated in center city, the Passyunk area, Fishtown, and adjoining districts.
 
-<div id="philadelphia_rest"></div>
+<div id="philadelphiarest"></div>
 
 
 # Example: Embedding Altair & Hvplot Charts
