@@ -1,5 +1,7 @@
 ---
 layout: default
+  toc: false
+  toc_sticky: false
 altair-loader:
   philadelphiarest: "charts/Philadelphia_Rest.json"
   altair-chart-1: "charts/measlesAltair.json"
@@ -9,9 +11,6 @@ hv-loader:
 folium-loader:
   folium-chart-1: ["charts/foliumChart.html", "400"] # second argument is the desired height
   folium-chart-2: ["charts/percent_no_internet.html", "400"] # second argument is the desired height
-toc: false
-toc_sticky: false
-
 ---
 
 # Yelp Ratings and Food Safety Inspections
