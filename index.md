@@ -18,6 +18,8 @@ This project explores the relationship between Yelp restaurant ratings and food 
 ## Data
 Data from Yelp was drawn through the Yelp API and the food inspections data was scraped from the Philadelphia Inquirer’s portal for food inspections, which was made in conjunction with the Philadelphia Department of Health. The original dataset of Philadelphia restaurants on Yelp included about 20,000 entries and the scrapped inspections dataset included over 300,000 individual inspections. Nevertheless, once the two datasets were pared down to active restaurants, and those that had inspections, as well as unmergeable entries, the final merged dataset had about 1,500 restaurants. In general, the majority of these restaurants were concentrated in center city, the Passyunk area, Fishtown, and adjoining districts.
 
+<div id="Philadelphia_Rest.html"></div>
+
 
 # Example: Embedding Altair & Hvplot Charts
 
@@ -26,7 +28,7 @@ This section will show examples of embedding interactive charts produced using [
 ## Altair Example
 
 Below is a chart of the incidence of measles since 1928 for the 50 US states.
-
+<div id="altair-chart-1"></div>
 <div id="altair-chart-1"></div>
 
 This was produced using Altair and embedded in this static web page. Note that you can also display Python code on this page:
