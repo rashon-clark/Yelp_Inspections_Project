@@ -43,6 +43,7 @@ As can be seen in the below chart of the Top 20 Neighborhoods by inspections, Fi
 
 
 
+
 <div id="NeighborListandPlot"></div>
 
 <div id="Distribution_of_Yelp_Ratings"></div>
