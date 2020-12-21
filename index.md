@@ -4,13 +4,23 @@ toc: false
 toc_sticky: false
 altair-loader:
   philadelphiarest: "charts/Philadelphia_Rest.json"
-  altair-chart-1: "charts/measlesAltair.json"
+  Distribution_of_Yelp_Ratings: "Distribution_of_Yelp_Ratings.json"
+  NumberofReviews: "NumberofReviews.json"
+  Ratings_by_Food_Vio: "Ratings_by_Food_Vio.json"
+  Ratings_by_Retail_Vio: "Ratings_by_Retail_Vio.json"
+
+  
 hv-loader:
-  hv-chart-1: ["charts/measlesHvplot.html", "500"] # second argument is the desired height
   hv-chart-top_10: ["charts/Top_10_Inspection_Plot.html", "800"]
-folium-loader:
-  folium-chart-1: ["charts/foliumChart.html", "400"] # second argument is the desired height
-  folium-chart-2: ["charts/percent_no_internet.html", "400"] # second argument is the desired height
+  Average-Retail: ["charts/Average Retail Violations by Category.html", 800"]
+  Average-Food: ["charts/Average_Food_Violations_by_Category.html"]
+  NeighborListandPlot: ["charts/NeighborListandPlot.html"]
+  Top_10_Inspections: ["charts/Top_10_Inspection_Plot.html"]
+  Top_Categories: ["charts/Top_Cuisine_Categories.html"]
+  Top_Inspections: ["charts/Top_Inspections.html"]
+
+  
+  
   
 ---
 
