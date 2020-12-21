@@ -4,4 +4,4 @@ description:
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-author_profile: false
+author_profile: true
