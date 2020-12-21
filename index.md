@@ -1,7 +1,5 @@
 ---
 layout: default
-toc: false
-toc_sticky: false
 altair-loader:
   philadelphiarest: "charts/Philadelphia_Rest.json"
   Distribution_of_Yelp_Ratings: "Distribution_of_Yelp_Ratings.json"
