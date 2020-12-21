@@ -66,9 +66,5 @@ import altair as alt
 alt.renderers.enable('notebook')
 ```
 
-## HvPlot Example
 
-Lastly, the measles incidence produced using the HvPlot package:
-
-<div id="hv-chart-1"></div>
 
