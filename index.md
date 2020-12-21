@@ -70,3 +70,4 @@ A model was created to predict the Yelp rating of restaurants, and test our ques
 
 The aim of this project was to examine the relationship between violations and customer satisfaction, via the Yelp Rating. The conclusion of this project is that violations have a slight correlation with the general understanding of customer satisfaction. This makes sense, since most diners do not go to restaurants with violation data in mind, but it seems that violations can capture some of the elements which cause dissatisfaction among customers, particularly poor sanitation and retail practices. Nevertheless, these are not the only reasons diners enjoy or avoid food, and certain establishments may have brands that supersede any poor practices.
 
+
