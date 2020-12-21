@@ -11,13 +11,13 @@ altair-loader:
 
   
 hv-loader:
-  hv-chart-top_10: ["charts/Top_10_Inspection_Plot.html", "800"]
-  Average-Retail: ["charts/Average Retail Violations by Category.html", 800"]
-  Average-Food: ["charts/Average_Food_Violations_by_Category.html", 800]
-  NeighborListandPlot: ["charts/NeighborListandPlot.html", 800]
-  Top_10_Inspections: ["charts/Top_10_Inspection_Plot.html", 800]
-  Top_Categories: ["charts/Top_Cuisine_Categories.html", 800]
-  Top_Inspections: ["charts/Top_Inspections.html", 800]
+  hv-chart-top_10: ["charts/Top_10_Inspection_Plot.html", "700"]
+  Average-Retail: ["charts/Average Retail Violations by Category.html", 700"]
+  Average-Food: ["charts/Average_Food_Violations_by_Category.html", 700]
+  NeighborListandPlot: ["charts/NeighborListandPlot.html", 700]
+  Top_10_Inspections: ["charts/Top_10_Inspection_Plot.html", 700]
+  Top_Categories: ["charts/Top_Cuisine_Categories.html", 700]
+  Top_Inspections: ["charts/Top_Inspections.html", 700]
 
   
   
@@ -40,8 +40,14 @@ Data from Yelp was drawn through the Yelp API and the food inspections data was 
 As can be seen in the below chart of the Top 20 Neighborhoods by inspections, Fishtown has the largest amount by many multiples of the rest. This may be a quirk of the two datasets, with Fishtown names and addresses merging better than other addresses. Fishtown may also have a more long-lived base of restaurants. Because the Yelp API only returns active restaurants, inspections from shuttered restaurants are invariably dropped from the dataset. Consequently, neighborhoods with a high business turnover at certain locations may have diminished visibility in the dataset.
 
 
-
 <div id="Top_10_Inspections"></div>
+
+
+
+<div id="NeighborListandPlot"></div>
+
+<div id="Distribution_of_Yelp_Ratings"></div>
+
 
 # Example: Embedding Altair & Hvplot Charts
 
