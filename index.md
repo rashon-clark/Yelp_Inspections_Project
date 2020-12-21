@@ -41,7 +41,7 @@ As can be seen in the below chart of the Top 20 Neighborhoods by inspections, Fi
 
 
 
-<div id="hv-chart-top_10"></div>
+<div id="Top_10_Inspections"></div>
 
 # Example: Embedding Altair & Hvplot Charts
 
